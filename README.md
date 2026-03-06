@@ -69,23 +69,6 @@ This pathwise correction strategy avoids abrupt state perturbations and preserve
 
 ## 🎬 Demo Video
 
-<p align="center">
-  <table>
-    <tr>
-      <th width="40%" align="center">Demo Video</th>
-      <th width="60%" align="center">Prompt</th>
-    </tr>
-    <tr>
-      <td>
-        <video src="assets/demo.mp4" autoplay loop muted playsinline width="100%"></video>
-      </td>
-      <td align="center" valign="middle">
-        Gwen Stacy reading a book, tilt up.
-      </td>
-    </tr>
-  </table>
-</p>
-
 
 More qualitative results and comparison videos are also available on the [project page](https://ttc-1231.github.io/).
 
