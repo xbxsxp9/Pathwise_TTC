@@ -69,38 +69,22 @@ This pathwise correction strategy avoids abrupt state perturbations and preserve
 
 ## 🎬 Demo Video
 
-<table>
-  <tr>
-    <th width="27%" align="center">Wan2.1</th>
-    <th width="27%" align="center">VideoJAM</th>
-    <th width="30%" align="center">DreamWorld (Ours)</th>
-    <th width="16%" align="center">Prompt</th>
-  </tr>
-  <tr>
-    <td><video src="https://github.com/user-attachments/assets/36a02d9b-2dd6-40b5-ae7e-1c6e47cac746" autoplay loop muted playsinline width="100%"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/0ba95548-a249-4a79-b057-42a4034401c6" autoplay loop muted playsinline width="100%"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/6b35a1ce-375e-4077-a852-074a216b35b3" autoplay loop muted playsinline width="100%"></video></td>
-    <td align="center" valign="middle">Gwen Stacy reading a book, tilt up.</td>
-  </tr>
-  <tr>
-    <td><video src="https://github.com/user-attachments/assets/487ee0b8-7ba6-4281-9550-07e7ec4daddd" autoplay loop muted playsinline width="100%"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/e123ef42-0d6a-41a2-a8a0-e67ed8402ab2" autoplay loop muted playsinline width="100%"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/5589d7d7-18db-42a3-9c1d-8c0d0a64b82d" autoplay loop muted playsinline width="100%"></video></td>
-    <td align="center" valign="middle">A person is picking up the phone.</td>
-  </tr>
-  <tr>
-    <td><video src="https://github.com/user-attachments/assets/f6f48d08-f629-46e1-8b81-6c03c91d65b0" autoplay loop muted playsinline width="100%"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/e2ae9f2d-50ed-4bb8-b2c1-0cda19df8a9a" autoplay loop muted playsinline width="100%"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/eea8924e-171f-4eb0-b865-97b16efc743a" autoplay loop muted playsinline width="100%"></video></td>
-    <td align="center" valign="middle">A cup of tea is tilted in the space station...</td>
-  </tr>
-  <tr>
-    <td><video src="https://github.com/user-attachments/assets/71f57bc0-11c2-4fba-bf6a-7844d09da597" autoplay loop muted playsinline width="100%"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/16609298-48d6-4275-8e48-2191d349b8cb" autoplay loop muted playsinline width="100%"></video></td>
-    <td><video src="https://github.com/user-attachments/assets/3f5311f4-e1dd-4ff9-b4e9-cd0bc17268c9" autoplay loop muted playsinline width="100%"></video></td>
-    <td align="center" valign="middle">Happy dog wearing a yellow turtleneck...</td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <th width="40%" align="center">Demo Video</th>
+      <th width="60%" align="center">Prompt</th>
+    </tr>
+    <tr>
+      <td>
+        <video src="assets/demo.mp4" autoplay loop muted playsinline width="100%"></video>
+      </td>
+      <td align="center" valign="middle">
+        Gwen Stacy reading a book, tilt up.
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 More qualitative results and comparison videos are also available on the [project page](https://ttc-1231.github.io/).
