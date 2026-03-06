@@ -69,7 +69,12 @@ This pathwise correction strategy avoids abrupt state perturbations and preserve
 
 ## 🎬 Demo Video
 
-[Watch Demo Video](https://ttc-1231.github.io/assets/demo.mp4)
+<p align="center">
+  <video width="80%" controls loop muted>
+    <source src="https://github.com/user-attachments/assets/36a02d9b-2dd6-40b5-ae7e-1c6e47cac746" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 More qualitative results and comparison videos are also available on the [project page](https://ttc-1231.github.io/).
 
