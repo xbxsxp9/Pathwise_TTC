@@ -10,12 +10,10 @@ Xunzhi Xiang, Zixuan Duan, Guiyu Zhang, Haiyu Zhang, Zhe Gao, Junta Wu, Shaofeng
 
 ---
 
-## 📖 Overview
+## 📖 Framework
 
 Autoregressive video diffusion models enable scalable long video generation but often suffer from **severe error accumulation**, causing visual drift and structural inconsistency over time. We propose **Test-Time Correction (TTC)**, a **training-free inference strategy** that stabilizes long-horizon autoregressive generation by correcting the sampling trajectory during diffusion inference.
 
-<p align="center">
-  <img src="assets/pipeline.png" width="100%">
-</p>
+![Framework](assets/pipeline.png)
 
 ---
